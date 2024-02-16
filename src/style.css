@@ -1,0 +1,47 @@
+/* body{
+   background-color: aqua;
+ display: flex;
+ justify-content: center;
+}
+h1{
+    border-style: solid;
+    border-width: 2px;
+    border-color: brown;
+    border-radius: 10px;
+    background-color: blue;
+
+    color: rgb(31, 100, 12);
+} */
+ .password{
+  position: relative;
+} 
+.EyeIcon{
+font-size: 18px;
+color: #8b8b8b;
+position:absolute ;
+top: 45%;
+right: 1rem;
+cursor: pointer;
+}
+img{
+  width: 50%;
+  height: 50px;
+  object-fit: contain;
+}
+.social-container a {  
+	border-radius: 50%;
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0 5px;
+	height: 40px;
+	width: 40px;
+	background: rgb(237, 238, 242);
+}
+.navbar{
+  background: linear-gradient(167deg, #c8b0da, #91f309);
+}
+.forgot{text-decoration: none;}
+.b:hover{background-color: #91f309;
+
+}
